@@ -17,13 +17,13 @@ In Deutschland ist das HP KEYMARK-Zertifikat in der BAFA-Liste der förderfähig
 Die einzelnen Datenblatt-Kennwerte wurde am 30.01.2025 heruntergeladen, per Webscraping konvertiert und als maschinenlesbarer Datensatz gespeichert. In der Datenbank befinden sich zum Zeitpunkt des Datenabrufs insgesamt 182 Hersteller aus 22 Ländern mit 2443 individuellen Wärmepumpen-Typen. Damit stellt der Artikel eine aktualisierte Auswertung der Arbeiten von [(Oltersdorf et al., 2022)](#quelle5) aus dem Jahr 2022 dar. 
 Abbildung 1 zeigt drei Tortendiagramme, die eine erste Übersicht über die Daten liefern. China (17,6 %), Deutschland (16,8 %) und Frankreich (15,9 %) sind als Herstellerländer mit den meisten Wärmepumpen vertreten. Bezüglich der eingesetzten Kältemittel setzen mehr als die Hälfte R32 als Kältemittel ein, gefolgt von R410A und R290.  Zur besseren Übersicht der Wärmepumpengröße wurden die Wärmepumpen in unterschiedliche Kategorien entsprechend ihrer Heizleistung eingruppiert. In der Leistungsklasse 5-10 kWth liegt mit 43,7 % der Großteil der Wärmepumpen. Dagegen haben nur 11,2 % der zertifizierten Wärmepumpen eine Heizleistung von mehr als 20 kWth. Somit lässt sich festhalten, dass es bei kleineren und mittleren Wärmepumpen bis 20 kWth eine große Auswahl an Modellen gibt, während der Markt für Keymark-zertifizierte Wärmepumpen mit einer Leistung von > 20 kWth  übersichtlicher ist. 
 
-<iframe src= "visualisation/Herstellerland1.html" width= "500px" height= "500px" style="border:none;">
+<iframe src= "visualisation/Herstellerland1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
-<iframe src= "visualisation/leistungsklasse1.html" width= "500px" height= "500px" style="border:none;">
+<iframe src= "visualisation/leistungsklasse1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
-<iframe src= "visualisation/kaeltemittel1.html" width= "500px" height= "500px" style="border:none;">
+<iframe src= "visualisation/kaeltemittel1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 <!-- Warum sind die drei nicht gleich groß?-->
 *Abbildung 1: Anteil von WP-Modellen nach Herstellerland, Kältemittel und Leistungsklasse*
