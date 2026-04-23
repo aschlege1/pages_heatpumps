@@ -20,6 +20,12 @@ Abbildung 1 zeigt drei Tortendiagramme, die eine erste Übersicht über die Date
 <iframe src= "visualisation/Herstellerland.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
+<iframe src= "visualisation/leistungsklasse.html" width= "100%" height= "500px" style="border:none;">
+</iframe> 
+
+<iframe src= "visualisation/kaeltemittel.html" width= "100%" height= "500px" style="border:none;">
+</iframe> 
+
 *Abbildung 1: Anteil von WP-Modellen nach Herstellerland, Kältemittel und Leistungsklasse*
 
 Weitere Kategorien sind in Tabelle 1 zusammengefasst, jeweils unter Angabe der Anzahl an Wärmepumpen je Unterkategorie sowie der prozentuale Anteil. Daraus wird deutlich, dass 83 % aller Modelle Luft-Wasser-Wärmepumpen sind. Hinsichtlich der Bauweise werden 43 % als außenaufgestellter Monoblock-, 42 % als Split-, und 16 % als Innenaufstellte Geräte angeboten. 69 % aller Modelle sind reversibel betreibbar und können sowohl Heizen als auch Kühlen. 
@@ -40,7 +46,7 @@ Abbildung 1 zeigt die Saisonale Arbeitszahl SCOP in Abhängigkeit der Heizleistu
 
 Dieser Zusammenhang wird genauer in Abbildung 3 analysiert, in der Boxplots der saisonalen Arbeitszahl, sowohl bei 35 °C (Low) und bei 55 °C (Medium), dargestellt ist. Hieraus wir ersichtlich, dass im Mittel die Sole-Wasser und Wasser-Wasser Wärmepumpen einen um 0,6 Punkte höheren SCOP als Luft-Wasser-Wärmepumpen erzielen. Der Vergleich der niedrigen und mittleren Heiztemperaturen in grün und orange verdeutlicht die Wichtigkeit von möglichst niedrigen Heiztemperaturen: eine Reduktion der Heizkreistemperaturen von 55 °C auf 35 °C erhöht den SCOP um 1,2 Punkte von 3,4 auf 4,6 bei Luft-Wasser-Wärmepumpen. Dies entspricht langjährigen Monitoring-Ergebnissen des Fraunhofer ISE von Wärmepumpenanlagen im Feld (Vergleiche z.B. [(Lämmle et al., 2023)](#quelle4) und [(Günther, 2025)](#quelle3)).
 
-<iframe src= "visualisation/bild3.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/bild3_version3.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 3: SCOP bei 35°C und 55°C Heiztemperatur in Abhängigkeit von Wärmepumpen-Bauarten mit Angabe der Median-Werte*
@@ -58,7 +64,7 @@ COP (T_VL=55 °C)=2,99+0,175⋅T_Luft+0,0079⋅T_Luft^2
 Neben den Arbeitszahlen ist eine Betrachtung der Einsatztemperaturen von besonderem Interesse. Dazu wird auf Datenblättern die TOL (temperature operating limit) angegeben, die die Mindest-Außentemperatur beschreibt, ab der ein Wärmepumpenbetrieb möglich ist. Unterhalb der Temperatur schalten Wärmepumpen ab. 83 % Wärmepumpenmodellen geben eine Mindest-Außentemperatur von TOL = -10 °C an. Für Außentemperaturen von – 20 °C und noch geringer, sind 15 % der WP-Modelle geeignet. 
 Insbesondere bei Bestandsgebäuden ist eine ausreichend hohe Heizungswasser-Vorlauftemperaturen entscheidend. Auf dem Datenblatt ist dies unter WTOL (water temperature operating limit) zu finden. Hierbei zeichnet sich ein deutlicher Einfluss des Kältemittels ab, bei dem die Temperatur des kritischen Punktes maßgeblich die maximalen Einsatztemperaturen beeinflusst. Abbildung 5 vergleicht die maximalen Vorlauftemperaturen in Abhängigkeit der vier häufigsten Kältemittel. Im Durchschnitt erreichen R290-Wärmepumpen mit dem Kältemittel Propan die höchsten Vorlauftemperaturen von 70 °C. Teilweise gibt es R290-Wärmepumpen, die sogar Heizungswasser-Vorlauftemperaturen bis zu 80 °C liefern. R32 und R407C mit einem Mittelwert von 60 °C, sowie R410A mit 65 °C sind demnach bei Anwendungsfällen mit höheren Temperaturanforderungen weniger geeignet. 
 
-<iframe src= "visualisation/keymark_dash_TOL_WTOL_plot.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/Abb5-roland-final.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 5: Maximale Heizungswasser-Vorlauftemperaturen (WTOL) bei unterschiedlichen Kältemittel*
@@ -66,7 +72,7 @@ Insbesondere bei Bestandsgebäuden ist eine ausreichend hohe Heizungswasser-Vorl
 ## **Schallpegel**
 Bei Wärmepumpen ist ebenfalls die Geräuschentwicklung von Interesse. Diese wird auf den Datenblättern getrennt nach Schalldruck innen und außen als gewichteter Schalldruckpegel in dB(A) ausgewiesen. Geprüft wird der Schalldruckpegel nach Norm DIN EN 12102-1, in der das Vorgehen zur Bestimmung des Schallleistungspegels von luftgekühlten Klimageräten, Wärmepumpen und Entfeuchtern festgelegt ist. Die Innenlautstärke wird dabei nur für Split- und innenaufgestellte Geräte ausgewiesen; die Außenlautstärke für alle WP-Typen.  Abbildung 6 zeigt die Verteilung der Schalldruckpegel, wobei der innere Schalldruckpegel mit einem Medianwert von 42 dB(A) deutlich geringer ausfällt als der äußere Schalldruckpegel mit 60 dB(A). Interessant ist auch die große Schwankungsbreite zwischen den Wärmepumpen-Modellen: vor allem die Schallbelastung außen zeigt eine große Spreizung mit Werten zwischen 35 dB(A) und 95 dB(A). 
 
-<iframe src= "visualisation/boxplot_schall.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/boxplot_schall_neu.html" width= "100%" height= "500px" style="border:none;">
 </iframe>
 
 *Abbildung 6: Schalldruckpegel Innen und Außen in dB(A) mit Median.*
@@ -81,7 +87,7 @@ Tabelle 2 fasst die wichtigsten Leistungs-, Schall- und Temperaturwerte mit Mini
 ## **Entwicklungstrends**
 Unter Berücksichtigung des Zertifizierungsdatums lassen sich Entwicklungstrends identizieren. Aufgrund der F-Gas-Verordnung der Europäischen Union sind Wärmepumpenhersteller verpflichtet, die Menge klimaschädlicher fluorierter Kältemittel (F-Gase) zu reduzieren. Dies fördert den Trend zu Niedrig-GWP-Kältemitteln, insbesondere R32 mit einem GWP von 675 und R290 (Propan) mit einem GWP von 3. Im Jahr 2016 und 2017 setzen über 80 % der Wärmepumpen das Kältemittel R410A (GWP = 2088) ein. Seit 2018 gewinnt R32 an Bedeutung und erreicht 2021 einen Höchstanteil von 79 %. Ab 2022 stieg der Anteil von R290 kontinuierlich an und liegt 2024 bei 38 %.
 
-<iframe src= "visualisation/kaeltemittel.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/Zertifizierung.html" width= "100%" height= "500px" style="border:none;">
 </iframe>
 
 *Abbildung 7: Entwicklungstrends und Anteile Kältemittel*
