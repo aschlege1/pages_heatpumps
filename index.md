@@ -46,7 +46,7 @@ Abbildung 1 zeigt die Saisonale Arbeitszahl SCOP in Abhängigkeit der Heizleistu
 
 Dieser Zusammenhang wird genauer in Abbildung 3 analysiert, in der Boxplots der saisonalen Arbeitszahl, sowohl bei 35 °C (Low) und bei 55 °C (Medium), dargestellt ist. Hieraus wir ersichtlich, dass im Mittel die Sole-Wasser und Wasser-Wasser Wärmepumpen einen um 0,6 Punkte höheren SCOP als Luft-Wasser-Wärmepumpen erzielen. Der Vergleich der niedrigen und mittleren Heiztemperaturen in grün und orange verdeutlicht die Wichtigkeit von möglichst niedrigen Heiztemperaturen: eine Reduktion der Heizkreistemperaturen von 55 °C auf 35 °C erhöht den SCOP um 1,2 Punkte von 3,4 auf 4,6 bei Luft-Wasser-Wärmepumpen. Dies entspricht langjährigen Monitoring-Ergebnissen des Fraunhofer ISE von Wärmepumpenanlagen im Feld (Vergleiche z.B. [(Lämmle et al., 2023)](#quelle4) und [(Günther, 2025)](#quelle3)).
 
-<iframe src= "visualisation/bild3_version3.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/bild3_neu.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 3: SCOP bei 35°C und 55°C Heiztemperatur in Abhängigkeit von Wärmepumpen-Bauarten mit Angabe der Median-Werte*
