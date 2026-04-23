@@ -17,13 +17,13 @@ In Deutschland ist das HP KEYMARK-Zertifikat in der BAFA-Liste der förderfähig
 Die einzelnen Datenblatt-Kennwerte wurde am 30.01.2025 heruntergeladen, per Webscraping konvertiert und als maschinenlesbarer Datensatz gespeichert. In der Datenbank befinden sich zum Zeitpunkt des Datenabrufs insgesamt 182 Hersteller aus 22 Ländern mit 2443 individuellen Wärmepumpen-Typen. Damit stellt der Artikel eine aktualisierte Auswertung der Arbeiten von [(Oltersdorf et al., 2022)](#quelle5) aus dem Jahr 2022 dar. 
 Abbildung 1 zeigt drei Tortendiagramme, die eine erste Übersicht über die Daten liefern. China (17,6 %), Deutschland (16,8 %) und Frankreich (15,9 %) sind als Herstellerländer mit den meisten Wärmepumpen vertreten. Bezüglich der eingesetzten Kältemittel setzen mehr als die Hälfte R32 als Kältemittel ein, gefolgt von R410A und R290.  Zur besseren Übersicht der Wärmepumpengröße wurden die Wärmepumpen in unterschiedliche Kategorien entsprechend ihrer Heizleistung eingruppiert. In der Leistungsklasse 5-10 kWth liegt mit 43,7 % der Großteil der Wärmepumpen. Dagegen haben nur 11,2 % der zertifizierten Wärmepumpen eine Heizleistung von mehr als 20 kWth. Somit lässt sich festhalten, dass es bei kleineren und mittleren Wärmepumpen bis 20 kWth eine große Auswahl an Modellen gibt, während der Markt für Keymark-zertifizierte Wärmepumpen mit einer Leistung von > 20 kWth  übersichtlicher ist. 
 
-<iframe src= "visualisation/Herstellerland.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/Herstellerland1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
-<iframe src= "visualisation/leistungsklasse.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/leistungsklasse1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
-<iframe src= "visualisation/kaeltemittel.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/kaeltemittel1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 1: Anteil von WP-Modellen nach Herstellerland, Kältemittel und Leistungsklasse*
@@ -39,7 +39,7 @@ Weitere Kategorien sind in Tabelle 1 zusammengefasst, jeweils unter Angabe der A
 Die Leistung und Effizienz von Wärmepumpen werden in dem folgenden Abschnitt untersucht. Der SCOP (Seasonal Coefficient of Performance) gibt das Verhältnis von abgegebener Heizenergie zur aufgenommenen elektrischen Energie einer Wärmepumpe über eine Heizperiode unter realistischen, jahreszeitabhängigen Bedingungen an. Er ist damit ein geeigneter Kennwert um die Effizienzen der Wärmepumpen zu vergleichen.
 Abbildung 1 zeigt die Saisonale Arbeitszahl SCOP in Abhängigkeit der Heizleistung jeweils bei einer Heiztemperatur von 35 °C, kategorisiert nach dem Wärmepumpen-Typ (Luft-Wasser-Wärmepumpe, Sole-Wasser und Wasser-Wasser-Wärmepumpe, und Sonstige Wärmepumpen). Brauchwasser-Wärmepumpen sind in der Übersicht nicht dargestellt, da für diese keine Nennleistung angegeben wird. Für eine bessere Darstellung der Heizleistung ist die x-Achse in logarithmischer Form aufgetragen. Zwischen dem SCOP und der Nennleistung ist kein direkter Zusammenhang feststellbar, d.h. die Effizienz ist in erster Linie unabhängig von der Wärmepumpen-Leistung. Jedoch zeichnet sich ab, dass Sole/Wasser und Wasser/Wasser-Wärmepumpen im Mittel deutlich effizienter sind als Luft-Wasser-Wärmepumpen. 
 
-<iframe src= "visualisation/keymark_scop_scatterplot.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/keymark_scop_scatterplot1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 2: Saisonale Arbeitszahl SCOP in Abhängigkeit der WP-Nennleistung bei einer Heiztemperatur von je 35 °C*
@@ -55,7 +55,7 @@ Kennfelder der Arbeitszahl COP (Coefficient of Performance) in Abhängigkeit der
 COP (T_VL=35 °C)=4,14+0,226⋅T_Luft+0,0091⋅T_Luft^2
 COP (T_VL=55 °C)=2,99+0,175⋅T_Luft+0,0079⋅T_Luft^2
 
-<iframe src= "visualisation/bild4_cop_kennfelder.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/bild4_cop_kennfelder1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 4: Durchschnittliche COP-Kennfelder von Luftwärmepumpen Regressionskurve und Vorhersageintervall mit einer 90%-Wahrscheinlichkeit*
@@ -72,7 +72,7 @@ Insbesondere bei Bestandsgebäuden ist eine ausreichend hohe Heizungswasser-Vorl
 ## **Schallpegel**
 Bei Wärmepumpen ist ebenfalls die Geräuschentwicklung von Interesse. Diese wird auf den Datenblättern getrennt nach Schalldruck innen und außen als gewichteter Schalldruckpegel in dB(A) ausgewiesen. Geprüft wird der Schalldruckpegel nach Norm DIN EN 12102-1, in der das Vorgehen zur Bestimmung des Schallleistungspegels von luftgekühlten Klimageräten, Wärmepumpen und Entfeuchtern festgelegt ist. Die Innenlautstärke wird dabei nur für Split- und innenaufgestellte Geräte ausgewiesen; die Außenlautstärke für alle WP-Typen.  Abbildung 6 zeigt die Verteilung der Schalldruckpegel, wobei der innere Schalldruckpegel mit einem Medianwert von 42 dB(A) deutlich geringer ausfällt als der äußere Schalldruckpegel mit 60 dB(A). Interessant ist auch die große Schwankungsbreite zwischen den Wärmepumpen-Modellen: vor allem die Schallbelastung außen zeigt eine große Spreizung mit Werten zwischen 35 dB(A) und 95 dB(A). 
 
-<iframe src= "visualisation/boxplot_schall_neu.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/boxplot_schall_neu1.html" width= "100%" height= "500px" style="border:none;">
 </iframe>
 
 *Abbildung 6: Schalldruckpegel Innen und Außen in dB(A) mit Median.*
@@ -87,7 +87,7 @@ Tabelle 2 fasst die wichtigsten Leistungs-, Schall- und Temperaturwerte mit Mini
 ## **Entwicklungstrends**
 Unter Berücksichtigung des Zertifizierungsdatums lassen sich Entwicklungstrends identizieren. Aufgrund der F-Gas-Verordnung der Europäischen Union sind Wärmepumpenhersteller verpflichtet, die Menge klimaschädlicher fluorierter Kältemittel (F-Gase) zu reduzieren. Dies fördert den Trend zu Niedrig-GWP-Kältemitteln, insbesondere R32 mit einem GWP von 675 und R290 (Propan) mit einem GWP von 3. Im Jahr 2016 und 2017 setzen über 80 % der Wärmepumpen das Kältemittel R410A (GWP = 2088) ein. Seit 2018 gewinnt R32 an Bedeutung und erreicht 2021 einen Höchstanteil von 79 %. Ab 2022 stieg der Anteil von R290 kontinuierlich an und liegt 2024 bei 38 %.
 
-<iframe src= "visualisation/Zertifizierung.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/Zertifizierung1.html" width= "100%" height= "500px" style="border:none;">
 </iframe>
 
 *Abbildung 7: Entwicklungstrends und Anteile Kältemittel*
