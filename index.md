@@ -25,7 +25,7 @@ Abbildung 1 zeigt drei Tortendiagramme, die eine erste Übersicht über die Date
 
 <iframe src= "visualisation/kaeltemittel1.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
-
+<!-- Warum sind die drei nicht gleich groß?-->
 *Abbildung 1: Anteil von WP-Modellen nach Herstellerland, Kältemittel und Leistungsklasse*
 
 Weitere Kategorien sind in Tabelle 1 zusammengefasst, jeweils unter Angabe der Anzahl an Wärmepumpen je Unterkategorie sowie der prozentuale Anteil. Daraus wird deutlich, dass 83 % aller Modelle Luft-Wasser-Wärmepumpen sind. Hinsichtlich der Bauweise werden 43 % als außenaufgestellter Monoblock-, 42 % als Split-, und 16 % als Innenaufstellte Geräte angeboten. 69 % aller Modelle sind reversibel betreibbar und können sowohl Heizen als auch Kühlen. 
@@ -39,7 +39,7 @@ Weitere Kategorien sind in Tabelle 1 zusammengefasst, jeweils unter Angabe der A
 Die Leistung und Effizienz von Wärmepumpen werden in dem folgenden Abschnitt untersucht. Der SCOP (Seasonal Coefficient of Performance) gibt das Verhältnis von abgegebener Heizenergie zur aufgenommenen elektrischen Energie einer Wärmepumpe über eine Heizperiode unter realistischen, jahreszeitabhängigen Bedingungen an. Er ist damit ein geeigneter Kennwert um die Effizienzen der Wärmepumpen zu vergleichen.
 Abbildung 1 zeigt die Saisonale Arbeitszahl SCOP in Abhängigkeit der Heizleistung jeweils bei einer Heiztemperatur von 35 °C, kategorisiert nach dem Wärmepumpen-Typ (Luft-Wasser-Wärmepumpe, Sole-Wasser und Wasser-Wasser-Wärmepumpe, und Sonstige Wärmepumpen). Brauchwasser-Wärmepumpen sind in der Übersicht nicht dargestellt, da für diese keine Nennleistung angegeben wird. Für eine bessere Darstellung der Heizleistung ist die x-Achse in logarithmischer Form aufgetragen. Zwischen dem SCOP und der Nennleistung ist kein direkter Zusammenhang feststellbar, d.h. die Effizienz ist in erster Linie unabhängig von der Wärmepumpen-Leistung. Jedoch zeichnet sich ab, dass Sole/Wasser und Wasser/Wasser-Wärmepumpen im Mittel deutlich effizienter sind als Luft-Wasser-Wärmepumpen. 
 
-<iframe src= "visualisation/keymark_scop_scatterplot1.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/keymark_scop_scatterplot.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 2: Saisonale Arbeitszahl SCOP in Abhängigkeit der WP-Nennleistung bei einer Heiztemperatur von je 35 °C*
@@ -55,7 +55,7 @@ Kennfelder der Arbeitszahl COP (Coefficient of Performance) in Abhängigkeit der
 COP (T_VL=35 °C)=4,14+0,226⋅T_Luft+0,0091⋅T_Luft^2
 COP (T_VL=55 °C)=2,99+0,175⋅T_Luft+0,0079⋅T_Luft^2
 
-<iframe src= "visualisation/bild4_cop_kennfelder1.html" width= "100%" height= "500px" style="border:none;">
+<iframe src= "visualisation/bild4_cop_kennfelder.html" width= "100%" height= "500px" style="border:none;">
 </iframe> 
 
 *Abbildung 4: Durchschnittliche COP-Kennfelder von Luftwärmepumpen Regressionskurve und Vorhersageintervall mit einer 90%-Wahrscheinlichkeit*
