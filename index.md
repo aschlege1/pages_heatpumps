@@ -3,8 +3,9 @@
 
 ## Wärmepumpen stehen im Zentrum der Wärmewende und sind eine Schlüsseltechnologie für die nachhaltige Gebäudetechnik. Doch wie schneiden die verfügbaren Modelle auf dem Markt hinsichtlich Effizienz, Einsatzbereich und Umweltverträglichkeit ab?
 
-**Text** *: Prof. Dr. Manuel Lämmle und Leroy Tomás* 
-**Visualisierungen** *: Alexander Severin, Alina Schlegel, Elias Folwaczny, Roland Kummer, Sebastian Engelhardt, Tasnim Alaref *
+**Text** *: Prof. Dr. Manuel Lämmle und Leroy Tomás*  
+
+**Visualisierungen**  *: Alexander Severin, Alina Schlegel, Elias Folwaczny, Roland Kummer, Sebastian Engelhardt, Tasnim Alaref*
 
 In diesem Beitrag werfen wir einen datenbasierten Blick auf die technischen Kenndaten von 2443 Wärmepumpenmodelle, die ein HeatPump Keymark-Zertifikat erhalten haben. Mit Hilfe detaillierter Auswertungen von Wirkungsgrad, Jahresarbeitszahl, Kältemittel, Geräuschemissionen und Einsatzmöglichkeiten entsteht ein umfassender Überblick über den aktuellen. Dieser liefert nicht nur repräsentative Werte, sondern bietet auch fundierte Einblicke für die Planung und Wärmepumpenauswahl.
 
