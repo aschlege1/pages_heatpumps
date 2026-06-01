@@ -4,7 +4,7 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 
 <details>
 <summary> Air Water Wärmepumpen </summary>
-Übersicht über das Cluster und seine individuelle Vorverarbeitung
+Übersicht über das Cluster und seine individuelle Vorverarbeitung  
 
 <a href="../FAMD_kmeansAW/">FAMD kmeans</a><br>
 <a href="../PCA_kmeansAW/">PCA kmeans</a><br>
@@ -18,7 +18,7 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 
 <details>
 <summary> Brinewater Wärmepumpen </summary>
-Übersicht über das Cluster und seine individuelle Vorverarbeitung
+Übersicht über das Cluster und seine individuelle Vorverarbeitung  
 
 <a href="../FAMD_kmeansB/">FAMD kmeans</a><br>
 <a href="../PCA_kmeansB/">PCA kmeans</a><br>
@@ -32,7 +32,7 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 
 <details>
 <summary> DHW Wärmepumpen </summary>
-Übersicht über das Cluster und seine individuelle Vorverarbeitung
+Übersicht über das Cluster und seine individuelle Vorverarbeitung  
 
 <a href="../FAMD_kmeansDHW/">FAMD kmeans</a><br>
 <a href="../PCA_kmeansDHW/">PCA kmeans</a><br>
