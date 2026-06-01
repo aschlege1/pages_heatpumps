@@ -1,5 +1,3 @@
----
----
 Übersicht über alle Cluster:
 
 Übersicht Pro Cluster:

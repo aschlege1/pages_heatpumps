@@ -1,5 +1,4 @@
----
----
+
 Vorverarbeitung und per Hand Vorclustern:
 Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs 
 
@@ -7,13 +6,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> Air Water Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansAW/)  
-[PCA kmeans](../PCA_kmeansAW/)  
-[kmeans](../kmeansAW/)  
-[kprototypes](../kprototypesAW/)  
-[DBSCAN](../DBSCANAW/)  
-[HDBSCAN](../HDBSCANAW/)  
-[Linkage](../LinkageAW/)  
+<a href="../FAMD_kmeansAW/">FAMD kmeans</a><br>
+<a href="../PCA_kmeansAW/">PCA kmeans</a><br>
+<a href="../kmeansAW/">kmeans</a><br>
+<a href="../kprototypesAW/">kprototypes</a><br>
+<a href="../DBSCANAW/">DBSCAN</a><br>
+<a href="../HDBSCANAW/">HDBSCAN</a><br>
+<a href="../LinkageAW/">Linkage</a> 
 
 </details>
 
@@ -21,13 +20,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> Brinewater Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansB/)  
-[PCA kmeans](../PCA_kmeansB/)  
-[kmeans](../kmeansB/)  
-[kprototypes](../kprototypesB/)  
-[DBSCAN](../DBSCANB/)  
-[HDBSCAN](../HDBSCANB/)  
-[Linkage](../LinkageB/)  
+<a href="../FAMD_kmeansB/">FAMD kmeans</a><br>
+<a href="../PCA_kmeansB/">PCA kmeans</a><br>
+<a href="../kmeansB/">kmeans</a><br>
+<a href="../kprototypesB/">kprototypes</a><br>
+<a href="../DBSCANB/">DBSCAN</a><br>
+<a href="../HDBSCANB/">HDBSCAN</a><br>
+<a href="../LinkageB/">Linkage</a>
 
 </details>
 
@@ -35,13 +34,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> DHW Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansDHW/)  
-[PCA kmeans](../PCA_kmeansDHW/)  
-[kmeans](../kmeansDHW/)  
-[kprototypes](../kprototypesDHW/)  
-[DBSCAN](../DBSCANDHW/)  
-[HDBSCAN](../HDBSCANDHW/)  
-[Linkage](../LinkageDHW/)  
+<a href="../FAMD_kmeansDHW/">FAMD kmeans</a><br>
+<a href="../PCA_kmeansDHW/">PCA kmeans</a><br>
+<a href="../kmeansDHW/">kmeans</a><br>
+<a href="../kprototypesDHW/">kprototypes</a><br>
+<a href="../DBSCANDHW/">DBSCAN</a><br>
+<a href="../HDBSCANDHW/">HDBSCAN</a><br>
+<a href="../LinkageDHW/">Linkage</a>
 
 </details>
 
