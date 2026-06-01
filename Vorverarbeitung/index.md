@@ -5,13 +5,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> Air Water Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansAW/index.md)  
-[PCA kmeans](../PCA_kmeansAW/index.md)  
-[kmeans](../kmeansAW/index.md)  
-[kprototypes](../kprototypesAW/index.md)  
-[DBSCAN](../DBSCANAW/index.md)  
-[HDBSCAN](../HDBSCANAW/index.md)  
-[Linkage](../LinkageAW/index.md)  
+[FAMD kmeans](../FAMD_kmeansAW/)  
+[PCA kmeans](../PCA_kmeansAW/)  
+[kmeans](../kmeansAW/)  
+[kprototypes](../kprototypesAW/)  
+[DBSCAN](../DBSCANAW/)  
+[HDBSCAN](../HDBSCANAW/)  
+[Linkage](../LinkageAW/)  
 
 </details>
 
@@ -19,13 +19,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> Brinewater Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansB/index.md)  
-[PCA kmeans](../PCA_kmeansB/index.md)  
-[kmeans](../kmeansB/index.md)  
-[kprototypes](../kprototypesB/index.md)  
-[DBSCAN](../DBSCANB/index.md)  
-[HDBSCAN](../HDBSCANB/index.md)  
-[Linkage](../LinkageB/index.md)  
+[FAMD kmeans](../FAMD_kmeansB/)  
+[PCA kmeans](../PCA_kmeansB/)  
+[kmeans](../kmeansB/)  
+[kprototypes](../kprototypesB/)  
+[DBSCAN](../DBSCANB/)  
+[HDBSCAN](../HDBSCANB/)  
+[Linkage](../LinkageB/)  
 
 </details>
 
@@ -33,13 +33,13 @@ Allgemeine Vorverarbeitungsschritte und Beschreibung des Ablaufs
 <summary> DHW Wärmepumpen </summary>
 Übersicht über das Cluster und seine individuelle Vorverarbeitung
 
-[FAMD kmeans](../FAMD_kmeansDHW/index.md)  
-[PCA kmeans](../PCA_kmeansDHW/index.md)  
-[kmeans](../kmeansDHW/index.md)  
-[kprototypes](../kprototypesDHW/index.md)  
-[DBSCAN](../DBSCANDHW/index.md)  
-[HDBSCAN](../HDBSCANDHW/index.md)  
-[Linkage](../LinkageDHW/index.md)  
+[FAMD kmeans](../FAMD_kmeansDHW/)  
+[PCA kmeans](../PCA_kmeansDHW/)  
+[kmeans](../kmeansDHW/)  
+[kprototypes](../kprototypesDHW/)  
+[DBSCAN](../DBSCANDHW/)  
+[HDBSCAN](../HDBSCANDHW/)  
+[Linkage](../LinkageDHW/)  
 
 </details>
 

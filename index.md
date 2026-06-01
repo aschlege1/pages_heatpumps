@@ -125,4 +125,4 @@ Manuel Lämmle ist seit 2023 Professor für Energieinformatik an der Hochschule 
 Leroy Tomás ist seit 2020 wissenschaftlicher Mitarbeiter am Institut für nachhaltige Energiesysteme und studierte zuvor Erneuerbare Energien und Daten Engineering an der Hochschule Offenburg.
 
 
-Um weitere Insights über Muster in den Daten zu erlangen, wurde Clustering ausgeführt. Hier finden Sie eine Aufarbeitung des Vorgehens und der Ergebnisse: [Vorverarbeitung](Vorverarbeitung/index.md)
+Um weitere Insights über Muster in den Daten zu erlangen, wurde Clustering ausgeführt. Hier finden Sie eine Aufarbeitung des Vorgehens und der Ergebnisse: [Vorverarbeitung](Vorverarbeitung/)
